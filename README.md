@@ -4,6 +4,8 @@ An introduction to statistical learning with application in Python.  This course
 ## Textbook
 We are using "An Introduction to Statistical Learning with Application in R" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani in this course.  You can check the textbook details [online](http://faculty.marshall.usc.edu/gareth-james/).
 
+<img src="./images/ISL_Cover.jpg" width="200" height="270">
+
 ## Course Outline
 ### Introduction to Python:
 ---
