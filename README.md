@@ -9,7 +9,7 @@ This repositary bases on "An Introduction to Statistical Learning with Applicati
 ## Course Outline
 ### Introduction to Python:
 ---
-In this lab, we will introduce some simple Python commands.  The best way to learn a new language is to try it out.  Python can be downloaded from [here](https://www.python.org/downloads/).  Specifically, we are going to utilize a working environment called "Jupyter Notebook", which the installation instruction can be found [here](https://jupyter.org/install)
+In this lab, we will introduce some simple Python commands.  The best way to learn a new language is to try it out.  Python can be downloaded from [here](https://www.python.org/downloads/).  Specifically, we are going to utilize an IDE (intergrated development environment) "Anaconda" and presentation layout "Jupyternotebook", which the installation instruction can be found [here](https://jupyter.org/install)
 
 Learning Objectives:
 1. Learning how to find and set your working directory on your machine.
