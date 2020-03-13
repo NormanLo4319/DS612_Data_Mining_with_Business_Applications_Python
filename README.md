@@ -1,5 +1,5 @@
 # Data Mining with Business Application (Python)
-An introduction to statistical learning with application in Python.  This course will help students develop Statistical Learning techniques to extract pertinent information from data and make informed business decisions.
+An introduction to statistical learning with application in Python.  This course helps students develop Statistical Learning techniques to extract pertinent information from data and make informed business decisions.
 
 ## Textbook
 This repositary bases on "An Introduction to Statistical Learning with Application in R" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani in this course.  You can check the textbook details [online](http://faculty.marshall.usc.edu/gareth-james/).
@@ -9,7 +9,7 @@ This repositary bases on "An Introduction to Statistical Learning with Applicati
 ## Course Outline
 ### Introduction to Python:
 ---
-In this lab, we will introduce some simple Python commands.  The best way to learn a new language is to try it out.  Python can be downloaded from [here](https://www.python.org/downloads/).  Specifically, we are going to utilize an IDE (intergrated development environment) "Anaconda" and presentation layout "Jupyternotebook", which the installation instruction can be found [here](https://jupyter.org/install)
+In this lab, we will introduce some simple Python commands.  The best way to learn a new language is to try it out.  Python can be downloaded from [here](https://www.python.org/downloads/).  Specifically, we are utilizing an IDE (intergrated development environment) "Anaconda" and presentation layout "Jupyternotebook" in this course, which the installation instruction can be found [here](https://jupyter.org/install)
 
 Learning Objectives:
 1. Learning how to find and set your working directory on your machine.
@@ -23,7 +23,7 @@ Learning Objectives:
 
 ### Statistical Learning:
 ---
-In this section, we will explain the use of statistical learning.  We are going to outline some of the key theoretical concepts that we used to build the founction of statistical learning.
+In this section, we explain the use of statistical learning.  We outline some of the key theoretical concepts that we used to build the founction of statistical learning.
 
 Learning Objectives:
 1. What is Statistical Learning?
@@ -35,7 +35,7 @@ Learning Objectives:
 
 ### Linear Regression:
 ---
-We are going to learn and apply one of the most popular supervised learning technique called "Linear Regression".  It is a useful tool for predicting a quantitative response and has been arround for a long time.  In this section, we will review some of the key ideas underlying the linear regression model, as well as the least squares approach that is most commonly used to fit this model.
+Students learn to apply one of the most popular supervised learning technique called "Linear Regression".  It is a useful tool for predicting a quantitative response and has been arround for a long time.  In this section, we review some of the key ideas underlying the linear regression model, as well as the least squares approach that is most commonly used to fit this model.
 
 Learning Objectives:
 1. Estimating and Assessing the Accuracy of the Coefficient
@@ -46,7 +46,7 @@ Learning Objectives:
 
 ### Classification:
 ---
-The linear regrssion model assumes that the response variable (dependent variable) is quantitative (coninuous).  However, the response varaible is instead qualitative (discrete / categorical).  A process used for predicting qualitative responses is known as classification.  There are many classification techniques, or classifiers, that one might use to predict a qualitative response.  In this section, we will cover three of the most widely-used classifiers: Logistic Regression, Linear Discriminant Analysis, and K-Nearnest Neighbors.
+The linear regrssion model assumes that the response variable (dependent variable) is quantitative (coninuous).  However, the response varaible is instead qualitative (discrete / categorical).  A process used for predicting qualitative responses is known as classification.  There are many classification techniques, or classifiers, that one might use to predict a qualitative response.  In this section, we cover three of the most widely-used classifiers: Logistic Regression, Linear Discriminant Analysis, and K-Nearnest Neighbors.
 
 Learning Ojbectives:
 1. Logistic Regresion
@@ -69,6 +69,8 @@ Learning Objectives:
 - Leave-One-Out Cross Validation
 - k-Fold Cross Validation
 - Bias Variance Trade-Off for k-Fold Cross Validation
+2 Bootstrap
+- Estimating the stardard error of the coefficients
 
 ### Tree-Based Methods:
 ---
